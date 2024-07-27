@@ -3,6 +3,20 @@
 @tailwind utilities;
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Orbitron:wght@400;700;900&display=swap");
 
+@font-face {
+    font-family: WalsheimBold;
+    src: url("../public/font/Walsheim-Bold.otf");
+}
+
+@font-face {
+    font-family: WalsheimMedium;
+    src: url("../public/font/Walsheim-Medium.otf");
+}
+
+* {
+    font-family: 'WalsheimMedium', sans-serif;
+}
+
 body {
     background: url("../public/images/mainbg.jpeg");
     background-size: cover;
