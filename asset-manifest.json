@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Farid_Ramadhan_Web_Portofolio/static/css/main.c0b199b6.css",
-    "main.js": "/Farid_Ramadhan_Web_Portofolio/static/js/main.302cdf34.js",
+    "main.js": "/Farid_Ramadhan_Web_Portofolio/static/js/main.5c2ea945.js",
     "static/js/787.354e309c.chunk.js": "/Farid_Ramadhan_Web_Portofolio/static/js/787.354e309c.chunk.js",
     "static/media/mainbg.jpeg": "/Farid_Ramadhan_Web_Portofolio/static/media/mainbg.8cf0e80f2b01d8a0e028.jpeg",
     "static/media/Walsheim-Bold.otf": "/Farid_Ramadhan_Web_Portofolio/static/media/Walsheim-Bold.0e19a74b4ecdf42a5e2d.otf",
     "static/media/Walsheim-Medium.otf": "/Farid_Ramadhan_Web_Portofolio/static/media/Walsheim-Medium.308abe43401121defd2f.otf",
     "index.html": "/Farid_Ramadhan_Web_Portofolio/index.html",
     "main.c0b199b6.css.map": "/Farid_Ramadhan_Web_Portofolio/static/css/main.c0b199b6.css.map",
-    "main.302cdf34.js.map": "/Farid_Ramadhan_Web_Portofolio/static/js/main.302cdf34.js.map",
+    "main.5c2ea945.js.map": "/Farid_Ramadhan_Web_Portofolio/static/js/main.5c2ea945.js.map",
     "787.354e309c.chunk.js.map": "/Farid_Ramadhan_Web_Portofolio/static/js/787.354e309c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0b199b6.css",
-    "static/js/main.302cdf34.js"
+    "static/js/main.5c2ea945.js"
   ]
 }
